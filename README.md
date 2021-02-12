@@ -8,7 +8,7 @@ Objective: Work in a group to create a HashMap.
 
 _Hint: Use the steps in the Codecademy lessons referenced above to find step-by-step instructions on how to complete each requirement._
 
-[Link to Codecademy: Learn Hash Maps: JavaScript] (https://www.codecademy.com/paths/pass-the-technical-interview-with-javascript/tracks/hash-maps-js/modules/hash-maps-js/lessons/learn-hash-maps-javascript)
+[Link to Codecademy: Learn Hash Maps: JavaScript](https://www.codecademy.com/paths/pass-the-technical-interview-with-javascript/tracks/hash-maps-js/modules/hash-maps-js/lessons/learn-hash-maps-javascript)
 
 **Once complete, assign a couple of the Generation BSM’s to your HashMap as keys and your own description of the BSM as the value.**
 
