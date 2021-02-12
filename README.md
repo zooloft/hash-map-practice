@@ -1,8 +1,8 @@
 # Make your own HashMap: BSM dictionary
 Objective: Work in a group to create a HashMap.
 
-* Create a HashMap Class with constructor (CC Learn Hash Maps: JavaScript exercise 1) 
-* Create a deterministic hash method that takes a `key` as a parameter and returns a compressed index. The hashing algorithms should make use of the ASCII codes of the key’s characters.  (hashing algorithm: CC Learn Hash Maps: JavaScript exercise 2, compression: CC Learn Hash Maps: JavaScript exercise 3)
+* Create a `HashMap` class with constructor (CC Learn Hash Maps: JavaScript exercise 1) 
+* Create a `hash` method that takes a `key` as a parameter and returns a compressed index. The hashing algorithms should be deterministic and make use of the ASCII codes of the key’s characters.  (hashing algorithm: CC Learn Hash Maps: JavaScript exercise 2, compression: CC Learn Hash Maps: JavaScript exercise 3)
 * Create an `assign` method, which will handle the logic needed to take in a key value pair and store the value at an index determined by the hash algorithm. (CC Learn Hash Maps: JavaScript exercise 4)
 * Create a `retrieve` method to retrieve the values you will be storing. (CC Learn Hash Maps: JavaScript exercise 5)
 
